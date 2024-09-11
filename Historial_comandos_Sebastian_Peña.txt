@@ -1,0 +1,492 @@
+ls
+sudo apt-get update
+sudo apt-get install firefox
+man ls
+history
+ls
+ls - l
+ls -l
+ls -lt
+ls - tah
+ls -tah
+man ls
+pwd
+tree
+echo "hola mundo "
+echo "hola mundo" > saludar.txt
+ls
+ls -l
+cat saludar.txt 
+les saludar.txt 
+less saludar.txt 
+more saludar.txt 
+history > historial.jpg
+ls
+more historial.jpg
+history >> historial.jpg
+more historial.jpg 
+pdw
+pwd
+history
+q
+man ls
+directory
+man ls
+/d
+-d
+--directory
+man ls
+ls directory bin
+ls - l
+ls -lt
+ls -l
+ls -d
+dsadasd =
+ls /bin
+ls tmp
+ls /tmp
+ls /etc
+ls /etc/t
+ls -r/etc/t*
+ls --r/etc/t*
+ls-r/etc/t*
+ls /etc/t*
+ls /etc
+ls /dev/tty??
+man ls
+ls --reverse/etc/t*
+ls -r/etc
+ls --help
+ls--reverse /etc/t*
+ls --reverse /etc/t*
+ls -r /etc/t*
+ls /dev/tty??
+ls /dev/tty *[1,2,3,4]
+ls /dev/tty*[1234]
+ls /dev/tty*[1-4]
+ls /dev/t*[C1]
+ls /dev/t*"C1"
+ls /dev/t*C1
+ls /dev/t*c1
+ls /dev/t* c1
+ls /dev/t*
+ls /dev/t*c1
+ls /main
+ls /
+ls /root
+ls --help
+ls -a/
+ls -a /
+ls -a 
+ls --help
+ls /etc/tree
+ls -d /etc/[^t]*
+ls -d /etc
+ls /etc
+ls -d /etc
+ls -d /etc/[^t]*
+ls /usr/
+ls -R /usr
+ls --help
+/cat
+/cat --help
+cat --help
+change --help
+man 
+man cd
+man ls
+cd /tmp
+cd /Desktop
+cd /desktop
+cd /tmp
+pwd
+date
+home
+cd /home
+pdw
+pwd
+cd /desktop
+cd /dekstop
+ls /home
+man ls
+ls -i /home
+ls -i
+cd /tmp
+pwd
+cd /tmp mkdir PRUEBA
+pwd
+mkdir prueba
+cd /home
+pwd
+ls -i
+rm -rf PRUEBA/*
+rm -rf prueba/*
+mkdir PRUEBA/dir1
+mkdir PRUEBA
+cd /tmp mkdir PRUEBA
+cd /tmp
+MKDIR PRUEBA
+mkdir PRUEBA
+mkdir PRUEBA/dir1
+pwd
+ls /tmp
+ls /tmp/PRUEBA
+rm -rf PRUEBA/*
+ls /tmp/PRUEBA
+rm -rf prueba
+ls /tmp
+mkdir /PRUEBA/dir2
+mkdir tmp/PRUEBA/dir2
+ls tmp/
+ls /tmp
+ls /tmp/PRUEBA
+mkdir /tmp/PRUEBA/dir
+ls /tmp/PRUEBA
+rm -rf PRUEBA/*
+ls /tmp/PRUEBA
+mkdir /tmp/PRUEBA/dir1
+mkdir /tmp/PRUEBA/dir2
+mkdir /tmp/PRUEBA/dir3
+ls /tmp/PRUEBA
+mkdir /tmp/PRUEBA/dir1/dir11
+ls /tmp/PRUEBA/dir1/dir11
+ls /tmp/PRUEBA/dir1/dir1
+ls /tmp/PRUEBA/dir1
+mkdir /tmp/PRUEBA/dir3/dir31
+ls /tmp/PRUEBA/dir3
+mkdir /tmp/PRUEBA/dir3/dir31/dir311
+mkdir /tmp/PRUEBA/dir3/dir31/dir312
+mkdir /tmp/PRUEBA/dir3/dir31/dir31
+rm -rf /tmp/PRUEBA/dir/dir31/dir31
+ls /tmp/PRUEBA/dir3/dir31
+rm -rf /tmp/PRUEBA/dir/dir31/*
+ls /tmp/PRUEBA/dir3/dir31
+rm -rf /tmp/PRUEBA/dir3/dir31/dir31
+ls /tmp/PRUEBA/dir3/dir31
+ls -R /rmp
+ls -R /tmp
+ls -R /tmp/PRUEBA
+t
+ls -R /tmp/PRUEBA
+cd PRUEBA
+cp mensaje /dir1/mensaje && cp mensaje /dir2/mensaje && cp mensaje /dir3/mensaje
+cp mensaje /dir1 && cp mensaje /dir2 && cp mensaje /dir3
+cp mensaje /dir1/mensaje && cp mensaje /dir2/mensaje && cp mensaje /dir3/mensaje
+ls
+ls /dir1
+cp mensaje /dir1/mensaje && cp mensaje /dir2/mensaje && cp mensaje /dir3/mensaje
+cp mensaje /dir1/mensaje
+sudo touch mensaje /dir1/mensaje
+cp mensaje /dir1/mensaje
+cd /tmp
+cp mensaje /PRUEBA/dir1/mensaje
+cp /PRUEBA/mensaje /PRUEBA/dir1/mensaje
+cp /PRUEBA/mensaje /PRUEBA/dir1
+cp PRUEBA/mensaje /PRUEBA/dir1
+cp PRUEBA/mensaje /PRUEBA/dir1/mensaje
+ls -R PRUEBA
+cp PRUEBA/mensaje PRUEBA/dir1/mensaje
+ls -R PRUEBA
+rm -rf PRUEBA/dir1/mensaje
+ls -R PRUEBA
+cd PRUEBA
+cp mensaje dir1/mensaje && cp mensaje dir2/mensaje && cp mensaje dir3/mensaje
+ls -R
+ls -R PRUEBA
+ls -R 
+cd /tmp
+ls -R PRUEBA
+pdw
+pwd
+cd
+ssh-keygen 
+pwd
+ls
+la /a
+ls -a
+ls .ssh
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+ls
+ls home
+ls
+cd repogit/
+git clone git@github.com:Sebastian84148/TP_AySO.git
+ls
+cd TP_AySO/
+pwd
+ls -i
+ls -l
+cat /etc/os-release
+help grep
+info grep
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i  Home_url /etc/os-release
+grep -i home_url /etc/os-release
+whoami
+id -un
+echo “Usuario=$(whoami)” > datos_usuario.txt
+gid add .
+git add .
+
+git config --global user.name "Sebastian Peña"
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status 
+ls /proc/cpuinfo 
+ls /proc/cpuinfo datos_usuario.txt 
+grep tail -n1  /proc/cpuinfo 
+grep tail -n1 /proc/cpuinfo "model name"
+grep "model name " tail -n1 /proc/cpuinfo
+grep /proc/cpuinfo "model name " tail -n1
+grep /proc/cpuinfo tail -n1  "model name"
+grep /proc/cpuinfo | tail -n1  "model name"
+cd
+ls
+cd repogit/
+cd TP_AySO
+ls
+cat datos_usuario.txt 
+cd /proc
+ls
+ls cpuinfo 
+history
+man cat
+cat cpuinfo 
+grep cpuinfo 
+man grep
+grep "model name"
+grep "model name" cpuinfo 
+grep "model name" tail -n1  cpuinfo 
+grep tail -n1 "model name" cpuinfo 
+grep tail -n1 | "model name" cpuinfo 
+grep "model name" | tail -n1  cpuinfo 
+grep "model name" cpuinfo tail -n1
+grep "model name" cpuinfo 
+man grep
+grep head -n1 "model name" cpuinfo 
+grep "model name" cpuinfo 
+>>
+
+grep head -n1 cpuinfo |  
+grep head -n1 cpuinfo
+grep head -n1 cpuinfo | grep model name" cpuinfo
+
+ws
+q
+as
+history
+grep "model name" cpuinfo model | head -n1
+grep "model name" cpuinfo | head -n1
+grep "model name" cpuinfo
+grep "model name" cpuinfo | head -n1
+grep "model name" cpuinfo | head -n1 >> /home/osboxes/repogit/TP_AySO/
+grep "model name" cpuinfo | head -n1 >> /home/osboxes/repogit/TP_AySO/datos_usuario.txt 
+cat /home/osboxes/repogit/TP_AySO/datos_usuario.txt 
+git add .
+rm -rf /home/osboxes/repogit/TP_AySO/datos_usuario.txt
+cat /home/osboxes/repogit/TP_AySO/datos_usuario.txt 
+ls /home/osboxes/repogit/TP_AySO/
+cd
+pwd
+cd repogit/TP_AySO
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+cat 
+cat datos_usuario.txt 
+git add .
+
+git commit 
+[200~git commit -m "ADD: agregado 1er ejercicio
+
+
+
+
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status datos_usuario.txt 
+git status
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+cat datos_usuario.txt 
+git add .
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU"
+git sta
+git status 
+git status datos_usuario.txt 
+cat datos_usuario.txt 
+ls /etc/passwd
+cat /etc/passwd
+cat /etc/passwd | head
+cat /etc/passwd head
+cat head  /etc/passwd
+cat /etc/passwd | head
+man grep
+cat /etc/passwd | head
+cat /etc/passwd | head -w
+cat /etc/passwd | head -w "nologin"
+grep "nologin" /etc/passwd
+grep -w "nologin" /etc/passwd
+grep "nologin" /etc/passwd | -w
+grep "nologin" /etc/passwd 
+grep "nologin" /etc/passwd | head
+grep [^nologin] "nologin" /etc/passwd | head
+grep [^nologin] /etc/passwd | head
+grep [^"nologin"] /etc/passwd | head
+grep [^"nologin"] /etc/passwd | head ["^nologin"]
+grep /etc/passwd | head ["^nologin"]
+grep /etc/passwd | head
+grep "no login" /etc/passwd | head
+grep "nologin" /etc/passwd | head
+man grep
+grep -v "nologin" /etc/passwd | head
+man sort
+grep -v "nologin" /etc/passwd | head sort 
+grep -v "nologin" /etc/passwd | head sort -k
+grep -v "nologin" /etc/passwd | head sort -k 7
+grep -v "nologin" /etc/passwd | head -k 7
+grep -v "nologin" /etc/passwd | head -k7
+grep -v "nologin" /etc/passwd | head sort -k7
+man sort
+grep -v "nologin" /etc/passwd | head sort --key=7
+grep -v "nologin" /etc/passwd | head | -k=7
+grep -v "nologin" /etc/passwd | head | sort -k=7
+grep -v "nologin" /etc/passwd | head | sort -k7
+grep -v "nologin" /etc/passwd | head
+ls
+echo "lista_ordenada" grep -v "nologin" /etc/passwd | head | sort -k7
+grep -v "nologin" /etc/passwd | head | sort -k7 >> "lista_ordenada"
+ls
+cat lista_ordenada 
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+tcpdump 
+ls
+ls ..
+ls /
+pwd
+sudo tcpdump 
+tcpdump help
+sudo tcpdump help
+man tcpdump 
+sudo tcpdump -i any
+sudo tcpdump -n
+sudo tcpdump -v
+sudo tcpdump -vvv
+sudo tcpdump -i eth()
+sudo tcpdump -i eth0
+sudo tcpdump 
+tcpdump -h
+man tcpdump 
+man tcpdump -D
+sudo tcpdump -D
+sudo tcpdump --interface any
+sudo tcpdump -i any
+sudo tcpdump
+"sudo tcpdump" >> comando_dump_net
+"sudo tcpdump" > comando_dump_net
+ls
+cat comando_dump_net 
+echo "sudo tcpdump" > comando_dump_net
+cat comando_dump_net 
+rm -rf comando_dump_net 
+ls
+echo "man tcpdump" > comando_dump_net
+echo "sudo tcpdump" > comando_dump_net
+cat comando_dump_net 
+echo "man tcpdump" > comando_dump_net
+cat comando_dump_net 
+"sudo tcpdump" > comando_dump_net
+cat comando_dump_net 
+echo "man tcpdump" > comando_dump_net
+cat comando_dump_net 
+echo "man tcpdump" >> comando_dump_net
+cat comando_dump_net 
+rm -rf comando_dump_net 
+echo "man tcpdump" > comando_dump_net
+"man tcpdump" >> comando_dump_net
+cat comando_dump_net 
+echo "sudo tcpdump" >> comando_dump_net
+cat comando_dump_net 
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+<<<Heredoc Alumno: Sebastian Peña
+División: 111
+Turno: Mañana >README.pm Heredoc;
+ls
+cat README.pm 
+<<<Alumno: Sebastian Peña > README.pm 
+cat README.pm << alumno
+ads
+da
+
+cat README.pm 
+cat > README.pm << Alumno: Sebastian Peña
+cat README.pm 
+cat <<Heredoc
+Alumno: Sebastian
+README.pm 
+
+cat README.pm 
+cat <<Heredoc
+Alumno: Sebastian Peña
+README.pm 
+
+cat README.pm 
+cat <<EOF | sh
+touch somefile
+echo foo > somefile
+EOF
+
+ls
+cat somefile
+rm -rf somefile 
+ls
+cat <<Heredoc
+touch README.pm
+echo foo > README.pm
+Heredoc
+
+ls
+car README.pm 
+cat README.pm 
+man sh
+cat > README.pm <<Heredoc
+hola
+Heredoc
+
+cat README.pm 
+cat > README.pm <<Heredoc
+Alumno: Sebastian PEñaHeredoc
+
+ 
+
+
+cat > README.pm <<Heredoc
+hola
+Heredoc
+
+cat README.pm 
+cat > README.pm <<Heredoc
+Alumno: Peña
+Heredoc
+
+cat README.pm 
+cat > README.pm <<Heredoc
+Alumno: Sebastian Peña
+División: 111
+Turno: Mañana
+Heredoc
+
+cat README.pm 
+gat add .
+get add .
+git add .
+git commit -m "DOC: Añadiendo información sobre el estudiante que realizo este TP"
+history -a
+ls
+history -a
